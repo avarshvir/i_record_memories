@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Arshvir | I Record Memories</title>
+    
+    <!-- Typography -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500&family=Playfair+Display:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+    
+    <!-- Bootstrap 5 CSS (Used strictly for grid and utilities) -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    
+    <!-- AOS Animations -->
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    
+    <!-- Phosphor Icons (Minimalist Apple-style icons) -->
+    <script src="https://unpkg.com/@phosphor-icons/web"></script>
+
+    <!-- Custom Global CSS -->
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+    <!-- Glassmorphic Navigation -->
+    <nav class="navbar navbar-expand-lg fixed-top glass-nav">
+        <div class="container">
+            <a class="navbar-brand font-playfair" href="index.html">Arshvir.</a>
+            
+            <button class="navbar-toggler border-0 shadow-none" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <i class="ph ph-list fs-2 text-theme"></i>
+            </button>
+            
+            <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
+                <ul class="navbar-nav align-items-center gap-3">
+                    <li class="nav-item">
+                        <a class="nav-link active" href="index.html">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="states.html">States & UT</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-muted" style="cursor: not-allowed;" href="#">World Tour <small>(Soon)</small></a>
+                    </li>
+                    
+                    <li class="nav-item">
+                        <a class="nav-link" href="#about">About</a>
+                    </li>
+                    <li class="nav-item">
+                        <button id="theme-toggle" class="btn btn-link nav-link shadow-none" aria-label="Toggle Dark Mode">
+                            <i class="ph ph-moon fs-4 text-theme"></i>
+                        </button>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Cinematic Hero Section -->
+    <section class="hero-section d-flex align-items-center justify-content-center text-center">
+        <!-- External image URL used since local images folder is deleted -->
+        <!--<div class="hero-bg" style="background-image: url('https://images.unsplash.com/photo-1506905925346-21bda4d32df4?q=80&w=2070&auto=format&fit=crop');"></div>-->
+        <div class="hero-bg" style="background-image: url('assets/body-image.avif');"></div>
+        
+        <div class="hero-overlay"></div>
+        
+        <div class="container position-relative z-1" data-aos="fade-up" data-aos-duration="1200">
+            <h1 class="hero-title font-playfair mb-3">I Record Memories.</h1>
+            <p class="hero-subtitle mb-5">
+                Every journey tells a story.<br>
+                Every place becomes a memory.
+            </p>
+            <a href="states.html" class="btn btn-outline-light btn-lg rounded-pill px-5 py-3 aesthetic-btn">
+                Start Exploring
+            </a>
+        </div>
+    </section>
+
+    <!-- About Me Section -->
+    <section id="about" class="about-section py-5">
+        <div class="container py-5 my-md-5">
+            <div class="row align-items-center justify-content-center">
+                <div class="col-lg-8 text-center" data-aos="fade-up" data-aos-duration="1000">
+                    
+                    <h2 class="font-playfair display-5 mb-5">Hi, I'm Arshvir <span class="wave-emoji">👋</span></h2>
+                    
+                    <div class="about-text lead text-muted">
+                        <p>I'm not just a Software Engineer.</p>
+                        <p>I'm also a traveler, blogger, photographer, story collector, technology enthusiast, learner of mother nature, memory recorder, and lifelong learner.</p>
+                        
+                        <p class="mt-5 font-playfair fs-3 text-theme fst-italic">
+                            "I don't travel to escape life.<br>I travel to remember it."
+                        </p>
+                        
+                        <p class="mt-5">
+                            Every photo tells a story.<br>
+                            Every video keeps a moment alive.<br>
+                            This website is my personal archive of memories collected across India.
+                        </p>
+                        
+                        <h4 class="font-playfair mt-5 pt-3 mb-0 text-theme">I Record Memories.</h4>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Minimalist Footer -->
+    <footer class="footer py-5 text-center border-top">
+        <div class="container">
+            <h5 class="font-playfair mb-3 text-theme">I Record Memories.</h5>
+            <p class="text-muted small mb-4">Made with ❤️ by Arshvir</p>
+            
+            <div class="social-links gap-4 d-flex justify-content-center">
+                <a href="https://www.instagram.com/avarshvir/" target="_blank" aria-label="Instagram"><i class="ph ph-instagram-logo fs-3"></i></a>
+                <a href="https://www.youtube.com/@avarshvir" target="_blank" aria-label="YouTube"><i class="ph ph-youtube-logo fs-3"></i></a>
+                <a href="https://github.com/avarshvir" target="_blank" aria-label="GitHub"><i class="ph ph-github-logo fs-3"></i></a>
+                <a href="https://in.linkedin.com/in/arshvir-995a91203" target="_blank" aria-label="LinkedIn"><i class="ph ph-linkedin-logo fs-3"></i></a>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+    
+    <!-- AOS Animations JS -->
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    
+    <!-- Custom Global JS -->
+    <script src="assets/js/main.js"></script>
+
+</body>
+</html>

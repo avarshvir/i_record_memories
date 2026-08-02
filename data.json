@@ -1,0 +1,434 @@
+{
+  "lastUpdated": "2026-08-01",
+  "source": "National Portal of India current States and Union Territories list",
+  "sourceUrl": "https://www.india.gov.in/calendar",
+  "places": [
+    {
+      "id": "punjab",
+      "name": "Punjab",
+      "type": "state",
+      "visited": true,
+      "cover": "https://images.unsplash.com/photo-1609947017136-9daf32a5eb16?q=80&w=1200&auto=format&fit=crop",
+      "media": [
+        {
+          "type": "image",
+          "src": "https://images.unsplash.com/photo-1609947017136-9daf32a5eb16?q=80&w=1200&auto=format&fit=crop",
+          "alt": "Golden Temple memory in Punjab"
+        },
+        {
+          "type": "image",
+          "src": "https://images.unsplash.com/photo-1623059508779-2542c6e83753?q=80&w=1000&auto=format&fit=crop",
+          "alt": "Punjab travel moment"
+        },
+        {
+          "type": "video",
+          "src": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+          "poster": "https://images.unsplash.com/photo-1595815771614-ade9d652a65d?q=80&w=1000&auto=format&fit=crop",
+          "alt": "Short Punjab video"
+        }
+      ]
+    },
+    {
+      "id": "andhra-pradesh",
+      "name": "Andhra Pradesh",
+      "type": "state",
+      "visited": false,
+      "cover": "",
+      "media": []
+    },
+    {
+      "id": "arunachal-pradesh",
+      "name": "Arunachal Pradesh",
+      "type": "state",
+      "visited": false,
+      "cover": "",
+      "media": []
+    },
+    {
+      "id": "assam",
+      "name": "Assam",
+      "type": "state",
+      "visited": false,
+      "cover": "",
+      "media": []
+    },
+    {
+      "id": "bihar",
+      "name": "Bihar",
+      "type": "state",
+      "visited": false,
+      "cover": "",
+      "media": []
+    },
+    {
+      "id": "chhattisgarh",
+      "name": "Chhattisgarh",
+      "type": "state",
+      "visited": false,
+      "cover": "",
+      "media": []
+    },
+    {
+      "id": "goa",
+      "name": "Goa",
+      "type": "state",
+      "visited": false,
+      "cover": "",
+      "media": []
+    },
+    {
+      "id": "gujarat",
+      "name": "Gujarat",
+      "type": "state",
+      "visited": false,
+      "cover": "",
+      "media": []
+    },
+    {
+      "id": "haryana",
+      "name": "Haryana",
+      "type": "state",
+      "visited": false,
+      "cover": "",
+      "media": []
+    },
+    {
+      "id": "himachal-pradesh",
+      "name": "Himachal Pradesh",
+      "type": "state",
+      "visited": true,
+      "cover": "https://images.unsplash.com/photo-1605640840605-14ac1855827b?q=80&w=1200&auto=format&fit=crop",
+      "media": [
+        {
+          "type": "image",
+          "src": "https://images.unsplash.com/photo-1605640840605-14ac1855827b?q=80&w=1200&auto=format&fit=crop",
+          "alt": "Snowy mountain road in Himachal Pradesh"
+        },
+        {
+          "type": "image",
+          "src": "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?q=80&w=1000&auto=format&fit=crop",
+          "alt": "Himachal valley memory"
+        },
+        {
+          "type": "video",
+          "src": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+          "poster": "https://images.unsplash.com/photo-1549880338-65ddcdfd017b?q=80&w=1000&auto=format&fit=crop",
+          "alt": "Short travel video"
+        }
+      ]
+    },
+    {
+      "id": "jharkhand",
+      "name": "Jharkhand",
+      "type": "state",
+      "visited": false,
+      "cover": "",
+      "media": []
+    },
+    {
+      "id": "karnataka",
+      "name": "Karnataka",
+      "type": "state",
+      "visited": true,
+      "cover": "https://images.unsplash.com/photo-1600112356915-089abb8fc71a?q=80&w=1200&auto=format&fit=crop",
+      "media": [
+        {
+          "type": "image",
+          "src": "https://images.unsplash.com/photo-1600112356915-089abb8fc71a?q=80&w=1200&auto=format&fit=crop",
+          "alt": "Stone chariot at Hampi, Karnataka"
+        },
+        {
+          "type": "image",
+          "src": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?q=80&w=1000&auto=format&fit=crop",
+          "alt": "Karnataka architecture memory"
+        },
+        {
+          "type": "video",
+          "src": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+          "poster": "https://images.unsplash.com/photo-1570168007204-dfb528c6958f?q=80&w=1000&auto=format&fit=crop",
+          "alt": "Short Karnataka video"
+        }
+      ]
+    },
+    {
+      "id": "kerala",
+      "name": "Kerala",
+      "type": "state",
+      "visited": false,
+      "cover": "",
+      "media": []
+    },
+    {
+      "id": "madhya-pradesh",
+      "name": "Madhya Pradesh",
+      "type": "state",
+      "visited": false,
+      "cover": "",
+      "media": []
+    },
+    {
+      "id": "maharashtra",
+      "name": "Maharashtra",
+      "type": "state",
+      "visited": false,
+      "cover": "",
+      "media": []
+    },
+    {
+      "id": "manipur",
+      "name": "Manipur",
+      "type": "state",
+      "visited": false,
+      "cover": "",
+      "media": []
+    },
+    {
+      "id": "meghalaya",
+      "name": "Meghalaya",
+      "type": "state",
+      "visited": false,
+      "cover": "",
+      "media": []
+    },
+    {
+      "id": "mizoram",
+      "name": "Mizoram",
+      "type": "state",
+      "visited": false,
+      "cover": "",
+      "media": []
+    },
+    {
+      "id": "nagaland",
+      "name": "Nagaland",
+      "type": "state",
+      "visited": false,
+      "cover": "",
+      "media": []
+    },
+    {
+      "id": "odisha",
+      "name": "Odisha",
+      "type": "state",
+      "visited": false,
+      "cover": "",
+      "media": []
+    },
+    
+    {
+      "id": "rajasthan",
+      "name": "Rajasthan",
+      "type": "state",
+      "visited": false,
+      "cover": "",
+      "media": []
+    },
+    {
+      "id": "sikkim",
+      "name": "Sikkim",
+      "type": "state",
+      "visited": false,
+      "cover": "",
+      "media": []
+    },
+    {
+      "id": "tamil-nadu",
+      "name": "Tamil Nadu",
+      "type": "state",
+      "visited": false,
+      "cover": "",
+      "media": []
+    },
+    {
+      "id": "telangana",
+      "name": "Telangana",
+      "type": "state",
+      "visited": false,
+      "cover": "",
+      "media": []
+    },
+    {
+      "id": "tripura",
+      "name": "Tripura",
+      "type": "state",
+      "visited": false,
+      "cover": "",
+      "media": []
+    },
+    {
+      "id": "uttar-pradesh",
+      "name": "Uttar Pradesh",
+      "type": "state",
+      "visited": false,
+      "cover": "",
+      "media": []
+    },
+    {
+      "id": "uttarakhand",
+      "name": "Uttarakhand",
+      "shortName": "UK",
+      "type": "state",
+      "visited": true,
+      "cover": "https://images.unsplash.com/photo-1626712318848-5f755a5f46d0?q=80&w=1200&auto=format&fit=crop",
+      "media": [
+        {
+          "type": "image",
+          "src": "https://images.unsplash.com/photo-1626712318848-5f755a5f46d0?q=80&w=1200&auto=format&fit=crop",
+          "alt": "Uttarakhand mountain memory"
+        },
+        {
+          "type": "image",
+          "src": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=1000&auto=format&fit=crop",
+          "alt": "Uttarakhand landscape"
+        },
+        {
+          "type": "video",
+          "src": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+          "poster": "https://images.unsplash.com/photo-1519681393784-d120267933ba?q=80&w=1000&auto=format&fit=crop",
+          "alt": "Short Uttarakhand video"
+        }
+      ]
+    },
+    {
+      "id": "west-bengal",
+      "name": "West Bengal",
+      "type": "state",
+      "visited": false,
+      "cover": "",
+      "media": []
+    },
+    {
+      "id": "andaman-and-nicobar-islands",
+      "name": "Andaman and Nicobar Islands",
+      "type": "ut",
+      "visited": false,
+      "cover": "",
+      "media": []
+    },
+    {
+      "id": "chandigarh",
+      "name": "Chandigarh",
+      "type": "ut",
+      "visited": true,
+      "cover": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?q=80&w=1200&auto=format&fit=crop",
+      "media": [
+        {
+          "type": "image",
+          "src": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?q=80&w=1200&auto=format&fit=crop",
+          "alt": "Chandigarh architecture memory"
+        },
+        {
+          "type": "image",
+          "src": "https://images.unsplash.com/photo-1570168007204-dfb528c6958f?q=80&w=1000&auto=format&fit=crop",
+          "alt": "Chandigarh city memory"
+        },
+        {
+          "type": "video",
+          "src": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+          "poster": "https://images.unsplash.com/photo-1548013146-72479768bada?q=80&w=1000&auto=format&fit=crop",
+          "alt": "Short Chandigarh video"
+        }
+      ]
+    },
+    {
+      "id": "dadra-and-nagar-haveli-and-daman-and-diu",
+      "name": "Dadra and Nagar Haveli and Daman and Diu",
+      "type": "ut",
+      "visited": false,
+      "cover": "",
+      "media": []
+    },
+    {
+      "id": "delhi",
+      "name": "Delhi",
+      "shortName": "Delhi NCR",
+      "type": "ut",
+      "visited": true,
+      "cover": "https://images.unsplash.com/photo-1587474260584-136574528ed5?q=80&w=1200&auto=format&fit=crop",
+      "media": [
+        {
+          "type": "image",
+          "src": "https://images.unsplash.com/photo-1587474260584-136574528ed5?q=80&w=1200&auto=format&fit=crop",
+          "alt": "India Gate in Delhi"
+        },
+        {
+          "type": "image",
+          "src": "https://images.unsplash.com/photo-1597040663342-45b6af3d91a5?q=80&w=1000&auto=format&fit=crop",
+          "alt": "Delhi street memory"
+        },
+        {
+          "type": "video",
+          "src": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+          "poster": "https://images.unsplash.com/photo-1548013146-72479768bada?q=80&w=1000&auto=format&fit=crop",
+          "alt": "Short Delhi video"
+        }
+      ]
+    },
+    {
+      "id": "jammu-and-kashmir",
+      "name": "Jammu and Kashmir",
+      "type": "ut",
+      "visited": true,
+      "cover": "https://images.unsplash.com/photo-1595815771614-ade9d652a65d?q=80&w=1200&auto=format&fit=crop",
+      "media": [
+        {
+          "type": "image",
+          "src": "https://images.unsplash.com/photo-1595815771614-ade9d652a65d?q=80&w=1200&auto=format&fit=crop",
+          "alt": "Kashmir valley memory"
+        },
+        {
+          "type": "image",
+          "src": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=1000&auto=format&fit=crop",
+          "alt": "Mountain lake memory"
+        },
+        {
+          "type": "video",
+          "src": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+          "poster": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?q=80&w=1000&auto=format&fit=crop",
+          "alt": "Short Kashmir video"
+        }
+      ]
+    },
+    {
+      "id": "ladakh",
+      "name": "Ladakh",
+      "type": "ut",
+      "visited": true,
+      "cover": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?q=80&w=1200&auto=format&fit=crop",
+      "media": [
+        {
+          "type": "image",
+          "src": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?q=80&w=1200&auto=format&fit=crop",
+          "alt": "Ladakh mountain memory"
+        },
+        {
+          "type": "image",
+          "src": "https://images.unsplash.com/photo-1519681393784-d120267933ba?q=80&w=1000&auto=format&fit=crop",
+          "alt": "Ladakh night sky memory"
+        },
+        {
+          "type": "video",
+          "src": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+          "poster": "https://images.unsplash.com/photo-1549880338-65ddcdfd017b?q=80&w=1000&auto=format&fit=crop",
+          "alt": "Short Ladakh video"
+        }
+      ]
+    },
+    {
+      "id": "lakshadweep",
+      "name": "Lakshadweep",
+      "type": "ut",
+      "visited": false,
+      "cover": "",
+      "media": []
+    },
+    {
+      "id": "puducherry",
+      "name": "Puducherry",
+      "type": "ut",
+      "visited": false,
+      "cover": "",
+      "media": []
+    }
+  ]
+}
